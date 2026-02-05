@@ -36,5 +36,9 @@ If you have unexpected results during the use of plugin, please revert back to y
 # Note
 The export file name must be "game.html".  
 Make sure that "game.html" is placed directly under the root of the ZIP file.  
+wordpress short code is 
+```
+[godot_game arc_embed="your-game-title"]
+```
 
 
