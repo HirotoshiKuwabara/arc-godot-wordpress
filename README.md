@@ -33,8 +33,8 @@ location /wp-content/plugins/godot-game-embedder/godot-games/ {
 
 If you have unexpected results during the use of plugin, please revert back to your backup. The software does not attempt to change anything within the site and tries to run in a self contained environment. If you think you have a suggestion, please feel free to reach out.
 
-note:
-The export file name must be "game.html".
-Make sure that game.html is placed directly under the root of the ZIP file.
+# Note
+The export file name must be "game.html".  
+Make sure that "game.html" is placed directly under the root of the ZIP file.  
 
 
